@@ -1,0 +1,22 @@
+{
+  "name": "flashcard_app",
+  "version": "1.0.0",
+  "description": "A flashcard creation and revision app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EuroWhisper/flashcard-app.git"
+  },
+  "author": "Laurence Juden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EuroWhisper/flashcard-app/issues"
+  },
+  "homepage": "https://github.com/EuroWhisper/flashcard-app#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
